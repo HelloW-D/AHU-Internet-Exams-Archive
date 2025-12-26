@@ -1,5 +1,7 @@
 # 安徽大学互联网学院往年资料库
 
+![A Picture with Mega Zeraora](https://github.com/Zeraora-807/AHU-Internet-Exams-Archive/blob/main/You%20don't%20need%20to%20read%20this%20directory%200w0/images/zeraora.jpg)
+
 ## 前言 | Preface
 
 本资料库由安徽大学互联网学院学生自发收集、整理与维护，旨在汇总并分享学院各专业课程相关的历年试题、复习提纲等资料。我们希望通过这份持续更新的资源，帮助同学们更好地掌握课程重点、高效备考，并营造互帮互助、共同进步的学习氛围。
